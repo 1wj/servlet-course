@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ ch19_filter_zq" />
+    <file type="web" url="file://$PROJECT_DIR$/ch01_servlet接口实现类" />
+    <file type="web" url="file://$PROJECT_DIR$/ch02_Servletsmzq" />
+    <file type="web" url="file://$PROJECT_DIR$/ch03_httpServletResponse" />
+    <file type="web" url="file://$PROJECT_DIR$/ch04_httpServletRequest" />
+    <file type="web" url="file://$PROJECT_DIR$/ch05_onlineTest" />
+    <file type="web" url="file://$PROJECT_DIR$/ch06_http_302" />
+    <file type="web" url="file://$PROJECT_DIR$/ch07_http_405" />
+    <file type="web" url="file://$PROJECT_DIR$/ch08_http_500" />
+    <file type="web" url="file://$PROJECT_DIR$/ch09_cdx" />
+    <file type="web" url="file://$PROJECT_DIR$/ch10_qqzf" />
+    <file type="web" url="file://$PROJECT_DIR$/ch11_servletContext" />
+    <file type="web" url="file://$PROJECT_DIR$/ch12_cookie" />
+    <file type="web" url="file://$PROJECT_DIR$/ch13_httpsession" />
+    <file type="web" url="file://$PROJECT_DIR$/ch14_requestsjgx" />
+    <file type="web" url="file://$PROJECT_DIR$/ch15_ServletContextListener" />
+    <file type="web" url="file://$PROJECT_DIR$/ch17_ServletContextAttributeListener" />
+    <file type="web" url="file://$PROJECT_DIR$/ch18ServletFilter" />
+    <file type="web" url="file://$PROJECT_DIR$/ch20_jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/ch21_jsp_request" />
+    <file type="web" url="file://$PROJECT_DIR$/ch22_jsp_servlet" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ch01/pom.xml" />
+        <option value="$PROJECT_DIR$/ch02_Servletsmzq/pom.xml" />
+        <option value="$PROJECT_DIR$/ch17_ServletContextAttributeListener/pom.xml" />
+        <option value="$PROJECT_DIR$/ch18ServletFilter/pom.xml" />
+        <option value="$PROJECT_DIR$/ch03_httpServletResponse/pom.xml" />
+        <option value="$PROJECT_DIR$/ch04_httpServletRequest/pom.xml" />
+        <option value="$PROJECT_DIR$/ch05_onlineTest/pom.xml" />
+        <option value="$PROJECT_DIR$/ch06_http_302/pom.xml" />
+        <option value="$PROJECT_DIR$/ch07_http_405/pom.xml" />
+        <option value="$PROJECT_DIR$/ch08_http_500/pom.xml" />
+        <option value="$PROJECT_DIR$/ch09_cdx/pom.xml" />
+        <option value="$PROJECT_DIR$/ch10_qqzf/pom.xml" />
+        <option value="$PROJECT_DIR$/ch11_servletContext/pom.xml" />
+        <option value="$PROJECT_DIR$/ch12_cookie/pom.xml" />
+        <option value="$PROJECT_DIR$/ch13_httpsession/pom.xml" />
+        <option value="$PROJECT_DIR$/ch14_requestsjgx/pom.xml" />
+        <option value="$PROJECT_DIR$/ch15_ServletContextListener/pom.xml" />
+        <option value="$PROJECT_DIR$/ch20_jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/ch21_jsp_request/pom.xml" />
+        <option value="$PROJECT_DIR$/ ch19_filter_zq/pom.xml" />
+        <option value="$PROJECT_DIR$/ch22_jsp_servlet/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

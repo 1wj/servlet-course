@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch02_Servletsmzq/ch02_Servletsmzq.iml" filepath="$PROJECT_DIR$/ch02_Servletsmzq/ch02_Servletsmzq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03_httpServletResponse/ch03_httpServletResponse.iml" filepath="$PROJECT_DIR$/ch03_httpServletResponse/ch03_httpServletResponse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04_httpServletRequest/ch04_httpServletRequest.iml" filepath="$PROJECT_DIR$/ch04_httpServletRequest/ch04_httpServletRequest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05_onlineTest/ch05_onlineTest.iml" filepath="$PROJECT_DIR$/ch05_onlineTest/ch05_onlineTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06_http_302/ch06_http_302.iml" filepath="$PROJECT_DIR$/ch06_http_302/ch06_http_302.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07_http_405/ch07_http_405.iml" filepath="$PROJECT_DIR$/ch07_http_405/ch07_http_405.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08_http_500/ch08_http_500.iml" filepath="$PROJECT_DIR$/ch08_http_500/ch08_http_500.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09_cdx/ch09_cdx.iml" filepath="$PROJECT_DIR$/ch09_cdx/ch09_cdx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10_qqzf/ch10_qqzf.iml" filepath="$PROJECT_DIR$/ch10_qqzf/ch10_qqzf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11_servletContext/ch11_servletContext.iml" filepath="$PROJECT_DIR$/ch11_servletContext/ch11_servletContext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch12_cookie/ch12_cookie.iml" filepath="$PROJECT_DIR$/ch12_cookie/ch12_cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch13_httpsession/ch13_httpsession.iml" filepath="$PROJECT_DIR$/ch13_httpsession/ch13_httpsession.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch14_requestsjgx/ch14_requestsjgx.iml" filepath="$PROJECT_DIR$/ch14_requestsjgx/ch14_requestsjgx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch15_ServletContextListener/ch15_ServletContextListener.iml" filepath="$PROJECT_DIR$/ch15_ServletContextListener/ch15_ServletContextListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch17_ServletContextAttributeListener/ch17_ServletContextAttributeListener.iml" filepath="$PROJECT_DIR$/ch17_ServletContextAttributeListener/ch17_ServletContextAttributeListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch18ServletFilter/ch18ServletFilter.iml" filepath="$PROJECT_DIR$/ch18ServletFilter/ch18ServletFilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ ch19_filter_zq/ch19_filter_zq.iml" filepath="$PROJECT_DIR$/ ch19_filter_zq/ch19_filter_zq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch20_jsp/ch20_jsp.iml" filepath="$PROJECT_DIR$/ch20_jsp/ch20_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch21_jsp_request/ch21_jsp_request.iml" filepath="$PROJECT_DIR$/ch21_jsp_request/ch21_jsp_request.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch22_jsp_servlet/ch22_jsp_servlet.iml" filepath="$PROJECT_DIR$/ch22_jsp_servlet/ch22_jsp_servlet.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<font style="color: red;size: 30px"> 登录失败重新登录</font>
+<form action="/ch05_onlineTest_war_exploded/login" method="post">
+    <table border="2px" align="center">
+        <tr>
+            <td>用户名</td>
+            <td><input type="text" name="userName" /></td>
+        </tr>
+        <tr>
+            <td>用户密码</td>
+            <td><input type="password" name="userpasswd" /></td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="提交" /></td><!--提交到动态资源文件中进行验证名字一样但一个是静态一个是动态-->
+            <td><input type="reset" value="清空" /></td>
+        </tr>
+    </table>
+
+</form>
+</body>
+</html>

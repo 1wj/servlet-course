@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch14_requestsjgx:war">
+    <output-path>$PROJECT_DIR$/../ch14_requestsjgx/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ch14_requestsjgx</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ch14_requestsjgx-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch14_requestsjgx:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch04_httpServletRequest" />
+        <module name="ch02_Servletsmzq" />
+        <module name="ch06_http_302" />
+        <module name="ch15_ServletContextListener" />
+        <module name="ch14_requestsjgx" />
+        <module name="ch11_servletContext" />
+        <module name="ch07_http_405" />
+        <module name="ch17_ServletContextAttributeListener" />
+        <module name="ch09_cdx" />
+        <module name="ch08_http_500" />
+        <module name="ch12_cookie" />
+        <module name="ch03_httpServletResponse" />
+        <module name="ch05_onlineTest" />
+        <module name="ch13_httpsession" />
+        <module name="ch10_qqzf" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch02_Servletsmzq" target="1.8" />
+      <module name="ch03_httpServletResponse" target="1.8" />
+      <module name="ch04_httpServletRequest" target="1.8" />
+      <module name="ch05_onlineTest" target="1.8" />
+      <module name="ch06_http_302" target="1.8" />
+      <module name="ch07_http_405" target="1.8" />
+      <module name="ch08_http_500" target="1.8" />
+      <module name="ch09_cdx" target="1.8" />
+      <module name="ch10_qqzf" target="1.8" />
+      <module name="ch11_servletContext" target="1.8" />
+      <module name="ch12_cookie" target="1.8" />
+      <module name="ch13_httpsession" target="1.8" />
+      <module name="ch14_requestsjgx" target="1.8" />
+      <module name="ch15_ServletContextListener" target="1.8" />
+      <module name="ch16_ServletContextAttribute" target="1.8" />
+      <module name="ch16_ServletContextAttributeListener" target="1.8" />
+      <module name="ch17_ServletContextAttributeListener" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

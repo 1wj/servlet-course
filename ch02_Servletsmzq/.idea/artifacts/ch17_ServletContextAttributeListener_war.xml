@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch17_ServletContextAttributeListener:war">
+    <output-path>$PROJECT_DIR$/../ch17_ServletContextAttributeListener/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ch17_ServletContextAttributeListener</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ch17_ServletContextAttributeListener-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch17_ServletContextAttributeListener:war exploded" />
+    </root>
+  </artifact>
+</component>

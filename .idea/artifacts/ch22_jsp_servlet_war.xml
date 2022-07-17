@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch22_jsp_servlet:war">
+    <output-path>$PROJECT_DIR$/ch22_jsp_servlet/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ch22_jsp_servlet</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ch22_jsp_servlet-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch22_jsp_servlet:war exploded" />
+    </root>
+  </artifact>
+</component>

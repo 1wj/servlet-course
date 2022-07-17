@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch05_onlineTest:war">
+    <output-path>$PROJECT_DIR$/../ch05_onlineTest/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ch05_onlineTest</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ch05_onlineTest-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch05_onlineTest:war exploded" />
+    </root>
+  </artifact>
+</component>

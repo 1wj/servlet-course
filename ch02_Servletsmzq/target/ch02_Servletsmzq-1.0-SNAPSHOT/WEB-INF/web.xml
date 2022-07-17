@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+    <servlet>
+        <servlet-name>OneServlet</servlet-name>
+        <servlet-class>com.bjpowernode.controller.OneServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>OneServlet</servlet-name>
+        <url-pattern>/one</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>TwoServlet</servlet-name>
+        <servlet-class>com.bjpowernode.controller.TwoServlet</servlet-class>
+        <load-on-startup>2</load-on-startup>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TwoServlet</servlet-name>
+        <url-pattern>/two</url-pattern>
+    </servlet-mapping>
+
+    <!--Servlet对象生命周期：
+        1.网站中所有Servlet接口实现类(动态资源)的实例对象，只能有http服务器负责创建。
+         开发人员不能手动创建Servlet接口实现类的实例对象
+        2.在默认情况下，http服务器接收到对于当前Servlet接口实现类第一次请求时自动
+        创建这个Servlet接口实现类的实例对象
+         可以手动配置在http服务器启动时就自动创建某个servlet接口实现类的实例对象
+          <servlet>
+             <servlet-name>OneServlet</servlet-name>
+             <servlet-class>com.bjpowernode.controller.OneServlet</servlet-class>
+             <load-on-startup>30</load-on-startup>  一个大于0的整数即可
+        </servlet>
+        3.在http服务器运行期间，一个servlet接口实现类只能被创建出一个实例对象
+        4.在http服务器关闭时刻，自动将网站中所有的servlet对象进行销毁
+    -->
+</web-app>
